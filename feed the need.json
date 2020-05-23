@@ -1,0 +1,150 @@
+{
+  "intents": [
+    {
+      "intent": "howtodonate",
+      "examples": [
+        {
+          "text": "how can i help people in this covid situation?"
+        },
+        {
+          "text": "i want to help"
+        },
+        {
+          "text": "i want to donate"
+        },
+        {
+          "text": "i want to give groceries"
+        },
+        {
+          "text": "i want to donate clothes"
+        },
+        {
+          "text": "i want to donate food"
+        }
+      ],
+      "description": "Answer how to donate."
+    },
+    {
+      "intent": "receive help",
+      "examples": [
+        {
+          "text": "i want food"
+        },
+        {
+          "text": "i want clothes"
+        },
+        {
+          "text": "i want groceries"
+        },
+        {
+          "text": "how can i get food?"
+        },
+        {
+          "text": "how can i get help?"
+        },
+        {
+          "text": "how can i get groceries?"
+        },
+        {
+          "text": "i want help"
+        },
+        {
+          "text": "can you help you"
+        }
+      ],
+      "description": "receiving guidelines"
+    },
+    {
+      "intent": "DataSource",
+      "examples": [
+        {
+          "text": "Are you sure?"
+        },
+        {
+          "text": "Is this information accurate?"
+        },
+        {
+          "text": "How do you know this?"
+        },
+        {
+          "text": "Where do you get your information?"
+        },
+        {
+          "text": "Where did you learn this?"
+        },
+        {
+          "text": "Is this true?"
+        }
+      ],
+      "description": "Information on where this bot sourced it's data"
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "aloha"
+        },
+        {
+          "text": "bonjour"
+        },
+        {
+          "text": "buenos dias"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "hello watson"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "yello"
+        },
+        {
+          "text": "Olla"
+        },
+        {
+          "text": "feeling a bit low"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good afternoon"
+        },
+        {
+          "text": "good evening"
+        },
+        {
+          "text": "namaste"
+        },
+        {
+          "text": "howdy"
+        },
+        {
+          "text": "hi there"
+        },
+        {
+          "text": "hola"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hey there"
+        },
+        {
+          "text": "heya"
+        }
+      ]
